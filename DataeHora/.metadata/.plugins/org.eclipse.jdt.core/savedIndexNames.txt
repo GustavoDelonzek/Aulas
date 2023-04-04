@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Gusta\OneDrive\Área de Trabalho\Eu\WS-Eclipse\Curso Udemy\Enumerações e composição\DataeHora\.metadata\.plugins\org.eclipse.jdt.core
+41270572.index
+4123552910.index
+1865797976.index
